@@ -1,4 +1,14 @@
 ## Hi there 👋
+# Tejashree — Software Engineer (AIML)
+
+I am an early-career Software Engineer specializing in Artificial Intelligence and Machine Learning with hands-on experience in:
+
+- Python, NLP, and Large Language Models  
+- Multimodal ML pipelines  
+- API-based model integration  
+- Cloud deployment using AWS  
+
+My work focuses on building production-ready AIML systems that can be integrated into real-world applications such as search, healthcare, and automation.
 
 <!--
 **tejashree-2004/tejashree-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
